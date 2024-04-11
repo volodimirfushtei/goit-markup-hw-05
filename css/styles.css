@@ -842,6 +842,7 @@ div {
   align-items: center;
   justify-content: center;
   fill: transparent;
+  margin-right: 8px;
 }
 .modal-form .modal-form-div-textarea {
   margin-bottom: 16px;
